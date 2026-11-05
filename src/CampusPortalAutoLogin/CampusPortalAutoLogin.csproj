@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>Resources/app.ico</ApplicationIcon>
+    <Version>1.0.5</Version>
+    <AssemblyTitle>校园网自动登录</AssemblyTitle>
+    <NoWarn>$(NoWarn);WFAC010</NoWarn>
+    <Product>校园网自动登录</Product>
+  </PropertyGroup>
+  <ItemGroup><ProjectReference Include="../CampusPortalAutoLogin.Core/CampusPortalAutoLogin.Core.csproj" /></ItemGroup>
+</Project>

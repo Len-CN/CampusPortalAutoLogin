@@ -1,0 +1,15 @@
+**/bin/
+**/obj/
+.vs/
+.tools/
+.superpowers/
+artifacts/
+TestResults/
+上网认证.html
+上网认证_files/
+*.user
+*.log
+AGENTS.md
+PLAN.md
+ui.txt
+stylekit-design-kit/
