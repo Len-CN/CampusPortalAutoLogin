@@ -1,5 +1,7 @@
 # 第三方说明
 
+本项目原创内容统一采用 GPL-3.0-only。以下第三方内容和依赖不因本项目的许可声明而改变其原有许可及署名要求。
+
 ## Inno Setup 简体中文翻译
 
 `installer/ChineseSimplified.isl` 是 Inno Setup 的社区翻译，维护者为 Zhenghan Yang（Kira）。文件保留原有作者和来源说明；其权利不由本项目重新授予。

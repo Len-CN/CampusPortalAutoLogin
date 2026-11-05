@@ -46,4 +46,8 @@ dotnet run --project tests/CampusPortalAutoLogin.Tests -c Release --no-build
 
 ## 许可与第三方内容
 
-Copyright (c) 2026 Len-CN。项目正式许可证尚未确定，目前不授予额外使用、修改或再分发许可。第三方内容遵循各自的许可和署名要求，详见 [第三方说明](THIRD_PARTY_NOTICES.md)。
+Copyright (c) 2026 Len-CN。
+
+本项目的原创代码、文档、图标及其他原创素材统一采用 **GNU General Public License v3.0（GPL-3.0-only，仅第 3 版）**，完整条款见 [LICENSE](LICENSE)。允许依照许可证使用、修改、分发和商业使用；分发修改版或其他受 GPL 覆盖的作品时，须遵守相应的源码提供、版权声明保留及相同许可要求。本项目不提供任何担保。
+
+第三方文件和依赖保留各自的许可及署名要求，详见 [第三方说明](THIRD_PARTY_NOTICES.md)。
